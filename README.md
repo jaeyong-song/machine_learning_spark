@@ -21,23 +21,33 @@ Machine Learning (w/o deep learning) study with PySpark based on CS246 and DSL e
 
 03_Clustering_PCA: K-means와 차원축소(PCA) 실습
 
+클러스터링의 경우에 크롤링과 클러스터링을 동시에 진행한 예시를 참고하면 된다.
+
+https://github.com/jaeyong-song/algarve_attractions_crawl_clustering
 
 
-## 3. 추천시스템
+
+## 3. 추천시스템 (DSL 추천시스템 1)
 
 구체적인 구현 및 프로젝트는 본인 github의 spotify 프로젝트를 참고할 것!
+
+https://github.com/jaeyong-song/DSL_Spotify_Million_Playlist_Dataset_Challenge
 
 04_Collaborative Filtering_ALS: CF 알고리즘(Latent Factor 적용)을 ALS로 실습
 
 
 
-## 4. 네트워크
+## 4. 네트워크 (DSL 추천시스템 2)
 
 05_Page_Rank: 페이지 랭크 실습
 
 06_Node_2_Vec: 그래프 표현의 변환 실습
 
 그 외 네트워크 분석을 위한 GNN 모델 등은 본인 github deep_learning_advanced 참고할 것!!
+
+https://github.com/jaeyong-song/deep_learning_advanced
+
+또한, 네트워크 분석 프로젝트(DSL 심화스터디 추천시스템 2에서 진행)를 참고할 것!
 
 
 
@@ -70,4 +80,6 @@ Machine Learning (w/o deep learning) study with PySpark based on CS246 and DSL e
 ## 8. 시각화
 
 14_지리정보시각화: 제주 재난지원금 기반 EDA에서 folium 사용한 예시코드
+
+https://github.com/jaeyong-song/DSL_EDA_jeju_jaenan
 
